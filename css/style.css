@@ -4,16 +4,9 @@
 
 .navbar img{
     background-color: white;
-    height: 50px;
-    width: 50px;
-     padding: 5px;
+    height: 40px;
+    width: 40px;
 }
-
-
-.input input{
-    padding-right: 200px;
-}
-
 
 .footer1 a, .footer2 a{
 text-decoration: none;
